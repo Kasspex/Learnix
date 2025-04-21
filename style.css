@@ -16,3 +16,30 @@ body{
 .row{
     padding: 5%;
 }
+
+#Suscribirse{
+    padding: 10%;
+}
+
+#footerPagina{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #FFFFFF;
+    padding: 1%;
+}
+.contenedor-learnix p{
+    margin: 0%;
+    padding: 0%;
+}
+
+.redes{
+    display: flex;
+    gap: 1.5rem;
+    padding: 0%;
+    margin: 0%;
+}
+
+.redes li{
+    list-style-type: none;
+}
