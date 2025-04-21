@@ -1,0 +1,18 @@
+body{
+    background-color: #EEF7FF;
+}
+
+.container-titulo{
+    padding: 10%;
+}
+
+
+#cursos{
+    background-color: #FFFFFF;
+    padding: 5%;
+    margin: 0%;
+}
+
+.row{
+    padding: 5%;
+}
